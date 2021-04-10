@@ -5,6 +5,6 @@ export const EJERCICIOS: Ejercicio[]=[
   {id: 2, name: 'Sentadilla'},
   {id: 3, name: 'Curl biceps'},
   {id: 4, name: 'Dominada'},
-  {id: 5, name: 'Planche'},
+  {id: 5, name: 'Plancha'},
   {id: 6, name: 'Press mancuerna hombro'}
 ];
